@@ -12,37 +12,41 @@ To sketch the given drawing with dimensions using fusion 360 tool.
   4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
   
 ## PROCEDURE
-
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
-
-![image](https://user-images.githubusercontent.com/113594316/198206497-ca83d495-119b-45cd-b43d-8ca3ea7e9544.png)
-
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198206562-68463016-3f32-4a87-aa5b-7a17dd023b31.png)
-
-5.	Use inspect feature to measure the dimensions of sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198206621-6348e8a3-4bbd-4a1f-96d3-db16fbf933d9.png)
-
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198206639-31c4bdb5-b13e-4106-bcf5-125c294aa03e.png)
-
-7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
-
-![image](https://user-images.githubusercontent.com/113594316/198206697-2e3ead2b-7d1e-436e-bc36-aa2e73c1e78e.png)
-
-![image](https://user-images.githubusercontent.com/113594316/198206721-8ad45462-2675-4be2-964f-621c8fc4490e.png)
-
+ 1. Create a New Sketch:   Open autodesk fusion 360 on your computer. From the Design workspace, select the Create Sketch option from the toolbar. The sketch environment will open with the available construction planes.
+ 
+2. Select the Sketching Plane:	Select the appropriate plane (XY, XZ, or YZ) according to the given drawing and project requirements. The selected plane will become the working surface for creating the sketch.
+ 
+  3. Create the Basic Geometry:	Use the sketching tools available in Fusion 360 to draw the required geometry. Tools such as (Line, Circle, Arc, Rectangle, Polygon, and Point) can be used to construct the given sketch accurately.
+ 
+ 4. Apply Geometric Constraints: Apply suitable sketch constraints such as (Horizontal, Vertical, Coincident, Parallel, Perpendicular, Tangent, Equal, and Symmetry) wherever required. These constraints help maintain the correct shape and relationship between the different elements of the sketch.
+ 
+ 5. Add Dimensions: Use the Sketch Dimension tool to specify the required lengths, distances, angles, diameters, and radii according to the given drawing. Enter the exact dimensional values to obtain an accurate sketch.
+ 
+ 6. Modify the Sketch: Use sketch modification tools to correct or edit the geometry. Features such as (Trim, Extend, Offset, Mirror, Move/Copy, Fillet, and Delete) can be used to modify the sketch as required.
+ 
+ 7. Check the Sketch: Verify the geometry, constraints, and dimensions carefully. Make sure that the sketch matches the given design and that there are no unwanted or incorrect entities.
+ 
+ 8. Inspect the Dimensions: Use the Inspect feature to measure and verify important dimensions of the sketch. Check the distances, angles, radii, and diameters to ensure that they correspond to the required values.
+ 
+ 9. Finish the Sketch: After completing the sketch and verifying all dimensions, select Finish Sketch. This exits the sketching environment and saves the completed sketch within the design.
+ 
+ 10. Create the Drawing: Switch to the Drawing workspace from the completed design. Select the appropriate option to create a drawing from the sketch/model.
+ 
+ 11. Select ISO Standard: Set the drawing standard to (ISO) and choose the required sheet size and orientation. Arrange the drawing views appropriately on the sheet.
+ 
+ 12. Insert and Arrange the Views: Place the required views of the sketch/design on the drawing sheet. Adjust the position and scale of the views so that they are clearly visible and properly arranged.
+ 
+ 13. Add Dimensions and Annotations: Add the necessary dimensions, center marks, construction information, and other annotations required for the technical drawing. Ensure that the dimensions are clear and readable.
+ 
+ 14. Complete and Verify the Drawing: Check the final drawing for correct geometry, dimensions, view arrangement, and ISO standard representation. Make any necessary corrections before finalizing the drawing.
+ 
+ 15. Save the Final Project: Save the completed Fusion 360 design and drawing file with the appropriate project name
 
 ## SKETCHS
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
-
+<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/dd558270-fd72-4d3d-ac22-0c9f4ec46203" />
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
